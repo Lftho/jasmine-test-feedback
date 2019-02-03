@@ -9,7 +9,7 @@ Em um projeto existente que me foi dado por Udacity para o meu Curso de Nanodegr
 Vou subir esse arquivo, quando tiver tudo correto o projeto.
 
 
-##  Testes que foram Implementados (Tests That Were Implemented0
+##  Testes que foram Implementados (Tests That Were Implemented)
 
 
 * Testes para allfeeds foram definidos e não estão vazios
